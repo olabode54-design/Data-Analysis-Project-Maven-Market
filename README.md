@@ -4,5 +4,8 @@ To design an end-to-end retail analytics solution that monitors sales performanc
 
 ## Dataset Used
 - <a href="https://github.com/olabode54-design/Data-Analysis-Project-Maven-Market/blob/main/MavenMarket_Calendar.csv">Dataset-1</a>
-
-
+- <a href="https://github.com/olabode54-design/Data-Analysis-Project-Maven-Market/blob/main/MavenMarket_Customers.csv">Dataset-2</a>
+- <a href="https://github.com/olabode54-design/Data-Analysis-Project-Maven-Market/blob/main/MavenMarket_Products.csv">Dataset-3</a>
+- <a href="https://github.com/olabode54-design/Data-Analysis-Project-Maven-Market/blob/main/MavenMarket_Stores.csv">Dataset-4</a>
+- <a href="https://github.com/olabode54-design/Data-Analysis-Project-Maven-Market/blob/main/MavenMarket_Regions.csv">Dataset-5</a>
+- <a href="https://github.com/olabode54-design/Data-Analysis-Project-Maven-Market/blob/main/MavenMarket_Returns_1997-1998.csv">Dataset-6</a>
