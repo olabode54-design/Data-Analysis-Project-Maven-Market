@@ -1,4 +1,8 @@
 # Maven-Market-Data-Analysis (Interactive Dashboard using Power BI)
+
+## Project Overview
+This PowerBI project analyzes retail sales data for Maven Market, a multi-location grocery chain. The dashboard provides insight into the revenue, performance, product trends, customer purchasing behaviour, and regional sales distribution.
+
 ## Project Objective
 To design an end-to-end retail analytics solution that monitors sales performance, evaluates profitability and return risks, and provides customer segmentation insights to support data-driven decision-making.
 
@@ -44,8 +48,8 @@ Most Ordered Product: Moms Roasted Chicken (225 units sold) for the latest month
 
 ## Strategic Customer Insights
 A relatively small group of top customers contributes disproportionately to revenue, indicating dependency on high-value segments.
-Balanced Gender Revenue Distribution Revenue contribution is nearly evenly split across gender, demonstrating broad market appeal.
-Customers in professional and skilled occupations drive the highest transaction volumes, indicating a potentially premium or convenience-driven customer base.
+Balanced Gender Revenue Distribution Revenue contribution is nearly evenly split across gender.
+Customers in professional and skilled occupations drive the highest transaction volumes.
 Store 7 leads in customer concentration, presenting opportunities for localized marketing optimization and inventory scaling.
 High-volume products such as Moms Roasted Chicken indicate clear demand anchors that can be leveraged for bundling and cross-selling strategies.
 
